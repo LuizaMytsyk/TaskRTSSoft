@@ -1,0 +1,2 @@
+c:\users\aliev\source\repos\TaskRTSSoft\obj\Debug\TaskRTSSoft.csprojAssemblyReference.cache
+c:\users\aliev\source\repos\TaskRTSSoft\obj\Debug\TaskRTSSoft.csproj.CoreCompileInputs.cache
